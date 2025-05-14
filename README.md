@@ -89,7 +89,7 @@ def sarsa(env,
 ```
 
 ## OUTPUT:
-Mention the optimal policy, optimal value function , success rate for the optimal policy.
+## optimal policy, optimal value function , success rate for the optimal policy.
 ![Screenshot 2025-05-14 114411](https://github.com/user-attachments/assets/8088cadb-fc33-450b-b820-9b3bc499db11)
 
 
@@ -98,7 +98,7 @@ Mention the optimal policy, optimal value function , success rate for the optima
 ![Screenshot 2025-05-14 114448](https://github.com/user-attachments/assets/501ac66a-a90d-4e38-a1d0-4111e60f008f)
 
 
-Include plot comparing the state value functions of Monte Carlo method and SARSA learning.
+## plot comparing the state value functions of Monte Carlo method and SARSA learning.
 
 ![Screenshot 2025-05-14 114500](https://github.com/user-attachments/assets/8f1843b6-f895-45fd-a287-2fb863ab5fa4)
 
